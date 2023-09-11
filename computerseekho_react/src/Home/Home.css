@@ -1,0 +1,32 @@
+.modern-header {
+  background-color: #ffffff; /* Set your desired background color */
+  padding: 20px 0;
+}
+
+.logo {
+  width: auto;
+  max-height: 50px;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 30px;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
+
+.navbar-toggler {
+  border-color: #fff;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-nav {
+  align-items: center;
+}
